@@ -64,7 +64,8 @@
   "name": "Milnerton Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2438209
+  "bytes": 2424458,
+  "verified": true
  },
  "osm_way_1233568722": {
   "name": "Hazendal Golf Course",
@@ -88,7 +89,8 @@
   "name": "Bellville Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2586475
+  "bytes": 2559033,
+  "verified": true
  },
  "osm_way_1547059735": {
   "name": "Clanwilliam Golf Club",
