@@ -45,7 +45,8 @@
   "name": "De Zalze Golf Course",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2652624
+  "bytes": 2562869,
+  "verified": true
  },
  "osm_relation_20603806": {
   "name": "East London Golf Course",
