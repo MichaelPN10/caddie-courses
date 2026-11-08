@@ -18,16 +18,18 @@
   "bytes": 2133998
  },
  "osm_relation_1067677": {
-  "name": "Mowbray Golf Club",
+  "name": "King David Mowbray Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2223467
+  "bytes": 2129763,
+  "verified": true
  },
  "osm_relation_10698368": {
   "name": "Rondebosch Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2109156
+  "bytes": 2090734,
+  "verified": true
  },
  "osm_relation_16313591": {
   "name": "Greenways Golf Course",
