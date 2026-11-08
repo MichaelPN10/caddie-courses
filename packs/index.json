@@ -60,7 +60,8 @@
   "name": "Westlake Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2355711
+  "bytes": 2277543,
+  "verified": true
  },
  "osm_relation_3096148": {
   "name": "Milnerton Golf Club",
