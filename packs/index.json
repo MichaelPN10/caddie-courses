@@ -209,6 +209,7 @@
   "name": "Steenberg Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 3003422
+  "bytes": 2936763,
+  "verified": true
  }
 }
