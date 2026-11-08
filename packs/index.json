@@ -1,0 +1,206 @@
+{
+ "osm_custom_pearlvalley": {
+  "name": "Pearl Valley Golf & Country Estate",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 3171358
+ },
+ "osm_node_14245136265": {
+  "name": "Fancourt - The Outeniqua",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2345378
+ },
+ "osm_node_757353947": {
+  "name": "Pezula Championship Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2133998
+ },
+ "osm_relation_1067677": {
+  "name": "Mowbray Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2223467
+ },
+ "osm_relation_10698368": {
+  "name": "Rondebosch Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2109156
+ },
+ "osm_relation_16313591": {
+  "name": "Greenways Golf Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 1445688
+ },
+ "osm_relation_19117574": {
+  "name": "Somerset West Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2198987
+ },
+ "osm_relation_19788095": {
+  "name": "De Zalze Golf Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2652624
+ },
+ "osm_relation_20603806": {
+  "name": "East London Golf Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2017305
+ },
+ "osm_relation_3065250": {
+  "name": "Westlake Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2355711
+ },
+ "osm_relation_3096148": {
+  "name": "Milnerton Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2438209
+ },
+ "osm_way_1233568722": {
+  "name": "Hazendal Golf Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 1129444
+ },
+ "osm_way_127339204": {
+  "name": "Strand Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2302278
+ },
+ "osm_way_145780587": {
+  "name": "Devonvale Golf and Wine Estate",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2623846
+ },
+ "osm_way_1545068759": {
+  "name": "Bellville Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2586475
+ },
+ "osm_way_1547059735": {
+  "name": "Clanwilliam Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2853600
+ },
+ "osm_way_1562913118": {
+  "name": "Glenwood Golf Course",
+  "holes": 9,
+  "built": "2026-11-08",
+  "bytes": 481997
+ },
+ "osm_way_176232065": {
+  "name": "Plett Country Club",
+  "holes": 10,
+  "built": "2026-11-08",
+  "bytes": 787946
+ },
+ "osm_way_208988760": {
+  "name": "Golf course, Gonubie",
+  "holes": 9,
+  "built": "2026-11-08",
+  "bytes": 1127284
+ },
+ "osm_way_211752194": {
+  "name": "Kuilsrivier Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2282479
+ },
+ "osm_way_219194087": {
+  "name": "Wellington Golf Club SAF",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2600907
+ },
+ "osm_way_229791608": {
+  "name": "Royal Cape Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2181252
+ },
+ "osm_way_25684758": {
+  "name": "Durbanville Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2578385
+ },
+ "osm_way_28860044": {
+  "name": "Worcester Golf Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2865516
+ },
+ "osm_way_34400768": {
+  "name": "Parow Golf Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2240701
+ },
+ "osm_way_4018629": {
+  "name": "Port Elizabeth Golf Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2447533
+ },
+ "osm_way_4306573": {
+  "name": "Humewood Golf Course",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2245137
+ },
+ "osm_way_47154775": {
+  "name": "Fancourt - The Links",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2334102
+ },
+ "osm_way_47154776": {
+  "name": "Fancourt - The Montagu",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2273072
+ },
+ "osm_way_47154778": {
+  "name": "Kingswood Golf Estate",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2409116
+ },
+ "osm_way_47154781": {
+  "name": "George Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 1848298
+ },
+ "osm_way_74141481": {
+  "name": "Stellenbosch Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 2507958
+ },
+ "osm_way_88132789": {
+  "name": "Erinvale Estate",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 3132311
+ },
+ "osm_way_947275731": {
+  "name": "Steenberg Golf Club",
+  "holes": 18,
+  "built": "2026-11-08",
+  "bytes": 3003422
+ }
+}
