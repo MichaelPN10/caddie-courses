@@ -122,7 +122,8 @@
   "name": "Kuilsrivier Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2282479
+  "bytes": 2287124,
+  "verified": true
  },
  "osm_way_219194087": {
   "name": "Wellington Golf Club SAF",
