@@ -136,7 +136,8 @@
   "name": "Royal Cape Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2181252
+  "bytes": 2082784,
+  "verified": true
  },
  "osm_way_25684758": {
   "name": "Durbanville Golf Club",
