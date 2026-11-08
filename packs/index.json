@@ -150,10 +150,11 @@
   "bytes": 2865516
  },
  "osm_way_34400768": {
-  "name": "Parow Golf Course",
+  "name": "Parow Golf Club",
   "holes": 18,
   "built": "2026-11-08",
-  "bytes": 2240701
+  "bytes": 2264181,
+  "verified": true
  },
  "osm_way_4018629": {
   "name": "Port Elizabeth Golf Course",
