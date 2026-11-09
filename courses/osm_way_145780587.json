@@ -6,7 +6,7 @@
  "verified": "2026-11-09",
  "checked_against": "GolfPass hole layouts (routing only)",
  "heights": "Copernicus GLO-30",
- "notes": "Hand-mapped (OSM has no hole lines); routing and dogleg shapes from GolfPass. Doglegs added on 4, 7, 8, 18. Tees: 1 on its tee box; others placed by eye on grass at about the white card distance, so may be 10-20 m out. Greens 4, 5, 6, 9, 12, 14 retraced. 16 holes within 8% of the card; 6 (+10%) and 11 (-9%) where the tee spot is a best estimate.",
+ "notes": "Hand-mapped (OSM has no hole lines); routing and dogleg shapes from GolfPass. Doglegs added on 4, 7, 8, 11, 18. Tees: 1 on its tee box; others placed by eye on grass at about the white card distance, so may be 10-20 m out. Greens 4, 5, 6, 9, 12, 14 retraced. Most holes within 8% of the card; 6 (+10%) where the tee spot is a best estimate.",
  "holes": {
   "1": {
    "par": 4,
@@ -3218,6 +3218,12 @@
    "tee": [
     18.8031346,
     -33.8792707
+   ],
+   "via": [
+    [
+     18.8010425,
+     -33.8804643
+    ]
    ],
    "green": [
     [
