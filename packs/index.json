@@ -130,10 +130,11 @@
   "verified": true
  },
  "osm_way_219194087": {
-  "name": "Wellington Golf Club SAF",
+  "name": "Wellington Golf Club",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2600907
+  "built": "2026-11-09",
+  "bytes": 2644928,
+  "verified": true
  },
  "osm_way_229791608": {
   "name": "Royal Cape Golf Club",
