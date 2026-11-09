@@ -200,8 +200,9 @@
  "osm_way_74141481": {
   "name": "Stellenbosch Golf Club",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2507958
+  "built": "2026-11-09",
+  "bytes": 2439517,
+  "verified": true
  },
  "osm_way_88132789": {
   "name": "Erinvale Golf Club",
