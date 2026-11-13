@@ -55,10 +55,11 @@
   "verified": true
  },
  "osm_relation_20603806": {
-  "name": "East London Golf Course",
+  "name": "East London Golf Club",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2017305
+  "built": "2026-11-13",
+  "bytes": 2016843,
+  "verified": true
  },
  "osm_relation_3065250": {
   "name": "Westlake Golf Club",
@@ -170,10 +171,11 @@
   "verified": true
  },
  "osm_way_4018629": {
-  "name": "Port Elizabeth Golf Course",
+  "name": "Port Elizabeth Golf Club",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2447533
+  "built": "2026-11-13",
+  "bytes": 2596751,
+  "verified": true
  },
  "osm_way_4306573": {
   "name": "Humewood Golf Course",
@@ -228,6 +230,13 @@
   "holes": 18,
   "built": "2026-11-08",
   "bytes": 2936763,
+  "verified": true
+ },
+ "osm_way_340684668": {
+  "name": "Wedgewood Golf & Country Estate",
+  "holes": 18,
+  "built": "2026-11-13",
+  "bytes": 2727515,
   "verified": true
  }
 }
