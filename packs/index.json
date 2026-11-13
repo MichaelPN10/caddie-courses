@@ -123,10 +123,11 @@
   "verified": true
  },
  "osm_way_208988760": {
-  "name": "Golf course, Gonubie",
+  "name": "Gonubie Golf Club",
   "holes": 9,
-  "built": "2026-11-08",
-  "bytes": 1127284
+  "built": "2026-11-13",
+  "bytes": 1146604,
+  "verified": true
  },
  "osm_way_211752194": {
   "name": "Kuilsrivier Golf Club",
@@ -178,10 +179,11 @@
   "verified": true
  },
  "osm_way_4306573": {
-  "name": "Humewood Golf Course",
+  "name": "Humewood Golf Club",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2245137
+  "built": "2026-11-13",
+  "bytes": 2400360,
+  "verified": true
  },
  "osm_way_47154775": {
   "name": "Fancourt - The Links",
