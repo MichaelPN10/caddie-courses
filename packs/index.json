@@ -254,5 +254,12 @@
   "built": "2026-11-13",
   "bytes": 2871623,
   "verified": true
+ },
+ "osm_relation_6221512": {
+  "name": "St Francis Bay Golf Club",
+  "holes": 18,
+  "built": "2026-11-13",
+  "bytes": 2621362,
+  "verified": true
  }
 }
