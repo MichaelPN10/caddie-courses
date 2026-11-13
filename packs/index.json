@@ -240,5 +240,12 @@
   "built": "2026-11-13",
   "bytes": 2727515,
   "verified": true
+ },
+ "osm_relation_17245579": {
+  "name": "Little Walmer Golf Club",
+  "holes": 9,
+  "built": "2026-11-13",
+  "bytes": 1387770,
+  "verified": true
  }
 }
