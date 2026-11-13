@@ -9,8 +9,9 @@
  "osm_node_14245136265": {
   "name": "Fancourt - The Outeniqua",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2345378
+  "built": "2026-11-13",
+  "bytes": 2187302,
+  "verified": true
  },
  "osm_node_757353947": {
   "name": "Pezula Championship Course",
@@ -181,26 +182,30 @@
  "osm_way_47154775": {
   "name": "Fancourt - The Links",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2334102
+  "built": "2026-11-13",
+  "bytes": 2011955,
+  "verified": true
  },
  "osm_way_47154776": {
   "name": "Fancourt - The Montagu",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2273072
+  "built": "2026-11-13",
+  "bytes": 2071478,
+  "verified": true
  },
  "osm_way_47154778": {
   "name": "Kingswood Golf Estate",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2409116
+  "built": "2026-11-13",
+  "bytes": 2183530,
+  "verified": true
  },
  "osm_way_47154781": {
   "name": "George Golf Club",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 1848298
+  "built": "2026-11-13",
+  "bytes": 1914031,
+  "verified": true
  },
  "osm_way_74141481": {
   "name": "Stellenbosch Golf Club",
