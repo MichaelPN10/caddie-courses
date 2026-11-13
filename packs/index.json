@@ -247,5 +247,12 @@
   "built": "2026-11-13",
   "bytes": 1387770,
   "verified": true
+ },
+ "osm_x_stfrancislinks": {
+  "name": "St Francis Links",
+  "holes": 18,
+  "built": "2026-11-13",
+  "bytes": 2871623,
+  "verified": true
  }
 }
