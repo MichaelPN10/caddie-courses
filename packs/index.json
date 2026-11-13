@@ -115,10 +115,11 @@
   "bytes": 481997
  },
  "osm_way_176232065": {
-  "name": "Plett Country Club",
-  "holes": 10,
-  "built": "2026-11-08",
-  "bytes": 787946
+  "name": "Plettenberg Bay Country Club",
+  "holes": 18,
+  "built": "2026-11-13",
+  "bytes": 1560891,
+  "verified": true
  },
  "osm_way_208988760": {
   "name": "Golf course, Gonubie",
