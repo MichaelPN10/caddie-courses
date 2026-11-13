@@ -16,8 +16,9 @@
  "osm_node_757353947": {
   "name": "Pezula Championship Course",
   "holes": 18,
-  "built": "2026-11-08",
-  "bytes": 2133998
+  "built": "2026-11-13",
+  "bytes": 1936464,
+  "verified": true
  },
  "osm_relation_1067677": {
   "name": "King David Mowbray Golf Club",
